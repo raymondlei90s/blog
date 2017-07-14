@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Frontend Tools
-categories: JavaScript Foundation
+categories: [JavaScript, Tools]
 ---
 
 Summarize my knowledge about the most popular JavaScript package managers, bundlers, and task runners.
