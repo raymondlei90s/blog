@@ -226,3 +226,7 @@ aside[role="complementary"] {
   width: 31.25%;
 }
 ```
+
+## Functions
+
+Read more [here](http://sass-lang.com/documentation/Sass/Script/Functions.html)
