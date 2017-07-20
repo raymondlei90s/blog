@@ -17,9 +17,9 @@ Check my script collections [Here](https://github.com/raymondlei90s/Python-Playg
 
 ## Python Basics
 
-![python-math-operator]({{ site.baseurl }} /images/Python/python-math-operator.png)
-![python-common-datatype]({{ site.baseurl }} /images/Python/python-common-datatype.png)
-![python-variable-names]({{ site.baseurl }} /images/Python/python-variable-names.png)
+![python-math-operator]({{ site.baseurl }}/images/Python/python-math-operator.png)
+![python-common-datatype]({{ site.baseurl }}/images/Python/python-common-datatype.png)
+![python-variable-names]({{ site.baseurl }}/images/Python/python-variable-names.png)
 
 ### String concatenation
 
@@ -58,12 +58,12 @@ float()
 
 ### Boolean values
 
-![comparison-operators]({{ site.baseurl }} /images/Python/comparison-operators.png)
+![comparison-operators]({{ site.baseurl }}/images/Python/comparison-operators.png)
 
 ### Boolean Operators
 
-![boolean-and-operator]({{ site.baseurl }} /images/Python/boolean-and-operator.png)
+![boolean-and-operator]({{ site.baseurl }}/images/Python/boolean-and-operator.png)
 
-![boolean-or-operator]({{ site.baseurl }} /images/Python/boolean-or-operator.png)
+![boolean-or-operator]({{ site.baseurl }}/images/Python/boolean-or-operator.png)
 
-![boolean-not-operator]({{ site.baseurl }} /images/Python/boolean-not-operator.png)
+![boolean-not-operator]({{ site.baseurl }}/images/Python/boolean-not-operator.png)

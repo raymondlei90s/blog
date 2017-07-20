@@ -8,7 +8,7 @@ Collection of CSS basic rules for references
 
 ## CSS Scoring
 
-![CSS-Scoring]({{ site.baseurl }} /images/CSS/css-selector-scoring.png)
+![CSS-Scoring]({{ site.baseurl }}/images/CSS/css-selector-scoring.png)
 
 
 ## [CSS Styles](https://cssguidelin.es/)

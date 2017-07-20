@@ -104,7 +104,7 @@ var app6 = new Vue({
 
 ## Composing with Components
 
-![vue-components]({{ site.baseurl }} /images/JavaScript-Framework/vue-components.png)
+![vue-components]({{ site.baseurl }}/images/JavaScript-Framework/vue-components.png)
 
 ```js
 // Define a new component called todo-item

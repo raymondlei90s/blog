@@ -32,7 +32,7 @@ var scripts = [
 
 ### webpack
 
-![webpack-flow]({{ site.baseurl }} /images/JavaScript-Foundation/webpack-flow.png)
+![webpack-flow]({{ site.baseurl }}/images/JavaScript-Foundation/webpack-flow.png)
 
 * Module bundler
 * Recursively builds a dependency graph and includes every module into 1 bundles
