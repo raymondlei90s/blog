@@ -2,6 +2,11 @@
 # This file contains configuration flags to customize your site
 #
 
+# Enable SEO Capabilities by insert {% seo %} into site for example _layouts/_defaults.html
+# https://github.com/jekyll/jekyll-seo-tag
+gems:
+  - jekyll-seo-tag
+
 # Name of your site (displayed in the header)
 name: LEI Yang
 
