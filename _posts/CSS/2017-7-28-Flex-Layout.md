@@ -79,3 +79,65 @@ This is a shorthand for flex-direction and flex-wrap. Default is row nowrap
   align-content: flex-start | flex-end | center | space-between | space-around | stretch;
 }
 ```
+
+## Properties for the Chidren (flex item)
+
+### order
+
+![flexitem-order]({{ site.baseurl }}/images/CSS/flexitem-order.png)
+
+```css
+.item {
+  order: <integer>;
+}
+```
+
+### flex-grow
+
+![flexitem-flex-grow]({{ site.baseurl }}/images/CSS/flexitem-flex-grow.png)
+
+```css
+.item {
+  flex-grow: <number>; /* default 0 */
+}
+```
+
+### flex-shrink
+
+```css
+.item {
+  flex-shrink: <number>; /* default 1, negative numbers are invalid */
+}
+```
+
+### flex-basis
+
+```css
+.item {
+  flex-basis: <length> | auto;
+}
+```
+
+### flex
+
+This is the shorthand for flex-grow, flex-shrink and flex-basis combined.
+
+The second and third parameters are optional. (flex-shrink and flex-basis)
+
+Default is 0 1 auto
+
+```css
+.item {
+  flex: none | [ <'flex-grow'> <'flex-shrink'>? || <'flex-basis'> ]
+}
+```
+
+### flex-grow
+
+![flexitem-align-self]({{ site.baseurl }}/images/CSS/flexitem-align-self.png)
+
+```css
+.item {
+  align-self: auto | flex-start | flex-end | center | baseline | stretch;
+}
+```
